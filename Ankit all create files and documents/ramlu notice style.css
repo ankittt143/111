@@ -1,0 +1,20 @@
+body{background-color: rgb(83, 79, 207); }
+h1{color: rgb(250, 246, 0); 
+    text-align: center; text-transform: uppercase;
+font-size: 40px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}  ul >li{color:rgb(255, 255, 255);}
+
+#xyz{background-color: rgb(255, 255, 255);
+border-style: double;
+border-radius: 30px;
+border-width: 20px;
+border-color: rgb(13, 9, 9); 
+padding: 0px 50px 0px 50px;
+margin: 10px 400px 100px 400px;
+}
+*{font-size: 30px;}
+hr{
+   width: 700px;
+   height: 5px;
+background-color: rgb(218, 19, 19);
+color: brown;
+}

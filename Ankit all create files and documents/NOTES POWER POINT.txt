@@ -1,0 +1,29 @@
+                                                                               todays class topic and there notes
+
+POWER POINT - it is an application software of MS Office group and it is used to make a presentation
+
+FEATURES- we can select different types of themes to make presentation
+
+ => the pages in power point is called as slide
+
+=> we can also apply the animation on the object of the slide. Animation are the special effect which is appliedon the object of the slide
+
+=> We can also slide transition on the slide slide transition is alsoa type of effect which is applied on the silde 
+
+GUI- Graphical user Interface (place holder) 8 handel in place holder
+
+TUI- Textual user Interface
+
+PARAGRAPH ALLIGNMENT :-
+
+Right Allignment = Ctrl+R
+Left Allignment = Ctrl+L
+Center Allignment = Ctrl+E
+Justify Allignment = Ctrl+J
+
+EXECL AND POWERPOINT ZOOM IN 
+
+Maximum Zoom in - 500%
+Minimum Zoom in - 10%
+
+Ctrl + shift + O  for print preview in libbre office writer

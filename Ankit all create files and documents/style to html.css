@@ -1,0 +1,8 @@
+body{background-image: url(https://images.unsplash.com/photo-1517999144091-3d9dca6d1e43?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2t8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60);}
+h1{color: rgb(23, 227, 213);}
+h3{color: rgb(255, 40, 47);}
+p{color: rgb(117, 235, 21); font-size: 35px;}
+*{text-align: center; font-size: 40px;}
+div{color: rgb(98, 173, 231);}
+hr{background-color: rgb(234, 255, 5);
+    height: 3px;}
